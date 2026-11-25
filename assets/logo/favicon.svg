@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 68" width="68" height="68" role="img" aria-label="Lamont Roofing Services Emblem">
+  <title>Lamont Roofing Services</title>
+  <rect width="68" height="68" rx="6" fill="#14181D" />
+  <g transform="translate(0, 4)">
+    
+    <!-- Outer architectural steel roof span (Oxide Copper folded ridge flashing) -->
+    <polygon points="2,30 34,9 66,30 66,37.8 34,16.8 2,37.8" fill="#D95D32" />
+    <!-- Secondary inner roof deck rib (parallel standing-seam commercial steel profile) -->
+    <polygon points="23.5,28.8 34,21.8 57,37 57,43.2 34,28 23.5,35" fill="#95A2B0" />
+    <!-- Structural "L" architectural steel girder anchored beneath roof span -->
+    <polygon points="11,36.2 19.5,30.6 19.5,47.5 57,47.5 57,55 11,55" fill="#FFFFFF" />
+  
+  </g>
+</svg>
